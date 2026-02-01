@@ -56,7 +56,12 @@ h1, h2, h3, h4, h5, h6 {
     letter-spacing: 0.02em;
     color: rgb(67 68 85);
 }
-
+.nav-link:hover,
+.nav-link:focus,
+.contacts-link:hover,
+.contacts-link:focus {
+    color: rgb(64 75 191);
+}
 .hero-section {
     background-color: rgb(46 47 66);
 }
@@ -91,15 +96,10 @@ h1, h2, h3, h4, h5, h6 {
     color: rgb(255 255 255);
 }
 
-.nav-link:hover,
-.nav-link:focus,
-.contacts-link:hover,
-.contacts-link:focus,
 .order-service-btn:hover,
 .order-service-btn:focus {
     background-color: rgb(64 75 191);
 }
-
 .visually-hidden {
     position: absolute;
     width: 1px;
