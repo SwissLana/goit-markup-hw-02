@@ -1,25 +1,16 @@
 body {
     font-family: "Roboto", sans-serif;
     color: rgb(67 68 85);
-    margin: 0;
-    padding: 0;
     background-color: rgb(255 255 255);
 }
 
 ul, ol {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
 }
 
 a {
     text-decoration: none;
     color: inherit;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    margin: 0;
-    padding: 0;
 }
 
 .logo {
@@ -93,7 +84,7 @@ h1, h2, h3, h4, h5, h6 {
     background-color: rgb(64 75 191);
 }
 
-.benefit-title {
+.benefits-title {
     font-weight: 500;
     font-size: 20px;
 
