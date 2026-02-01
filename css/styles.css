@@ -138,6 +138,9 @@ h1, h2, h3, h4, h5, h6 {
     letter-spacing: 0.02em;
     color: rgb(46 47 66);
 }
+.team-item {
+    background-color: rgb(255 255 255);
+}
 .team-name {
     font-weight: 500;
     font-size: 20px;
